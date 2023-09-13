@@ -1,0 +1,17 @@
+{
+  "name": "projeto-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "zero": "node ./src/index.js",
+    "um": "node ./src/exercicio1",
+    "dois": "node ./src/exercicio2",
+    "tres": "node ./src/exercicio3",
+    "quatro": "node ./src/exercicio4",
+    "cinco": "node ./src/exercicio5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
